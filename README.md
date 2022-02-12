@@ -6,7 +6,7 @@ LemmaGenerator creates lemmatizers for several European languages that you can c
 This package is available on Nuget:
 > Install-Package LemmaGenerator
 
-This project was created by Matjaz Jursic and was retrieved on http://lemmatise.ijs.si/. He's the expert and did a great job so for all questions you should check his website.
+This project was created by Matjaz Jursic and was retrieved on http://lemmatise.ijs.si/ (**off-line**). He's the expert and did a great job so for all questions you should check his website.
 
 Quickstart
 ----------------
@@ -24,13 +24,13 @@ Console.WriteLine(result);
 // prints "word"
 ```
 
-Note: Since this is an old Nuget, some newer environments may not support directly referencing the namespace after installing it via nuget.org. In such cases, you can add the .dll file from http://lemmatise.ijs.si/Software/Version3 into References of your project.
+Note: Since this is an old Nuget, some newer environments may not support directly referencing the namespace after installing it via nuget.org. In such cases, you can add the .dll file from http://lemmatise.ijs.si/Software/Version3 (**off-line**) into References of your project.
 
 Customizing the lemmatizer
 ----------------
 
 As mentioned above, you can customize your lemmatizer by using your own dictionary { word, lemma }.
-For more information, check [Matjaz's website](http://lemmatise.ijs.si/)(off-line) - part of [Institut "Jožef Stefan"](http://kt.ijs.si/sw).
+For more information, check [Matjaz's website](http://lemmatise.ijs.si/) (**off-line**) - part of [Institut "Jožef Stefan"](http://kt.ijs.si/sw).
 
 See also
 --------
