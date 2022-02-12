@@ -30,4 +30,14 @@ Customizing the lemmatizer
 ----------------
 
 As mentioned above, you can customize your lemmatizer by using your own dictionary { word, lemma }.
-For more information, check [Matjaz's website](http://lemmatise.ijs.si/).
+For more information, check [Matjaz's website](http://lemmatise.ijs.si/)(off-line) - part of [Institut "Jožef Stefan"](http://kt.ijs.si/sw).
+
+See also
+--------
+
+- https://github.com/hlavki/jlemmagen
+- https://github.com/vpodpecan/lemmagen3
+- https://github.com/oroszgy/pylemmagen
+- https://github.com/oroszgy/lemmagen3
+- https://github.com/EMBEDDIA/lemmagen3
+
